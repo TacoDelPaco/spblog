@@ -1,6 +1,6 @@
 # README
 
-[![Floobits Status](https://floobits.com/omghax/taco-land.svg)](https://floobits.com/omghax/taco-land/redirect)
+[![Floobits Status](https://floobits.com/omghax/taco-land.png)](https://floobits.com/omghax/taco-land/redirect)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
